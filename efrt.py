@@ -1,5 +1,5 @@
 
-#iip = "192.168.209.133"
+#iip = ""
 #teksock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 #ipp = socket.gethostbyname(socket.gethostname())
